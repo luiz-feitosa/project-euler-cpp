@@ -16,6 +16,6 @@ int main() {
     b = c;
     }
 
-    std::cout<<sum<<std::endl;
+    std::cout << sum << std::endl;
     return 0;
 }
